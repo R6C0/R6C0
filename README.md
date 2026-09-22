@@ -78,15 +78,15 @@ rationale, and a written record of known defects.
 
 ---
 
-## GitHub stats
+## Activity
 
-Most of my work lives in private and internal repositories, so these numbers cover
-public activity only.
+Most of what I build lives in private and internal repositories, so public commit counts
+say very little about the work. The portfolio is the better measure:
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=R6C0&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R6C0&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</p>
+[![Last commit](https://img.shields.io/github/last-commit/R6C0/engineering-portfolio?style=flat-square&label=portfolio%20updated&color=blue)](https://github.com/R6C0/engineering-portfolio/commits/main)
+[![Languages](https://img.shields.io/github/languages/count/R6C0/engineering-portfolio?style=flat-square&label=languages)](https://github.com/R6C0/engineering-portfolio)
+[![Top language](https://img.shields.io/github/languages/top/R6C0/engineering-portfolio?style=flat-square)](https://github.com/R6C0/engineering-portfolio)
+[![Licence](https://img.shields.io/github/license/R6C0/engineering-portfolio?style=flat-square)](https://github.com/R6C0/engineering-portfolio/blob/main/LICENSE)
 
 ---
 
