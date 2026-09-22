@@ -85,7 +85,6 @@ say very little about the work. The portfolio is the better measure:
 
 [![Last commit](https://img.shields.io/github/last-commit/R6C0/engineering-portfolio?style=flat-square&label=portfolio%20updated&color=blue)](https://github.com/R6C0/engineering-portfolio/commits/main)
 [![Languages](https://img.shields.io/github/languages/count/R6C0/engineering-portfolio?style=flat-square&label=languages)](https://github.com/R6C0/engineering-portfolio)
-[![Top language](https://img.shields.io/github/languages/top/R6C0/engineering-portfolio?style=flat-square)](https://github.com/R6C0/engineering-portfolio)
 [![Licence](https://img.shields.io/github/license/R6C0/engineering-portfolio?style=flat-square)](https://github.com/R6C0/engineering-portfolio/blob/main/LICENSE)
 
 ---
