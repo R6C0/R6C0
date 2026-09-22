@@ -1,4 +1,4 @@
-# Joshua Charles
+# Joshua C.
 
 **Data & Software Engineer** | London, UK
 
